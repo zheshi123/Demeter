@@ -3,7 +3,8 @@
 
 **THIS PROJECT IS FOR IBM 2021 CALL FOR CODE GLOBAL CHALLENGE USE ONLY(Zero Hunger Theme).**
 
-##Author:##
+## Author:
+
 Xiaoyi Tao, Chuanyun Duan, Zhe Shi, Sibo Xie, Yao Fu
 
 **Key Technology**: IBM NODE-RED, WATSON STUDIO, DB2, BLOCKCHANIN PLATFORM, AI, Big Data
