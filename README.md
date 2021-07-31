@@ -9,7 +9,7 @@ Our team answered IBM 2021 call for code aiming to reduce the risk of agricultur
 
 ## The Technical Architecture
 
-![ROADMAP](https://github.com/zheshi123/Demeter/blob/main/Images/Architecture.png)
+![ROADMAP](https://github.com/zheshi123/Demeter/blob/main/Images/TechnicalArchitecture.png)
 
 ## Demo video
 
