@@ -9,7 +9,7 @@
   - [Short description](#Short-description)
   - [Demo video](#demo-video)
   - [The architecture](#the-architecture)
-  - [Long description&PPT](#long-description & PPT)
+  - [Long description & PPT](#long-description&PPT)
   - [Project roadmap](#project-roadmap)
   - [Authors](#authors)
 
