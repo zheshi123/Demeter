@@ -8,10 +8,9 @@
   - [Contents](#contents)
   - [Short description](#Short-description)
   - [Demo video](#demo-video)
-  - [The architecture](#the-architecture)
+  - [The Technical Architecture](#The Technical Architecture)
   - [Long description](#long-description)
   - [Project roadmap](#project-roadmap)
-  - [Versioning](#versioning)
   - [Authors](#authors)
 
 
@@ -31,7 +30,7 @@ Our team answered IBM 2021 call for code aiming to reduce the risk of agricultur
 
 [More detail is available here](./Docs/Long Description.docx)
 
-## RoadMap:
+## Project roadmap:
 
 ![ROADMAP](https://github.com/zheshi123/Demeter/blob/main/Docs/Roadmap.jpg)
 
