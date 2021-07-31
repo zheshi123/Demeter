@@ -1,0 +1,71 @@
+.mint-toast {
+  opacity: 0.79;
+  background: #000000;
+  border-radius: 8px;
+}
+
+.mint-toast-text {
+  font-family: PingFangSC-Regular;
+  font-weight: 400;
+  font-size: 14px;
+  color: #FFFFFF;
+}
+
+/* msgbox 样式修改 */
+.mint-msgbox {
+  width: 74.67%;
+  border-radius: 8px;
+}
+
+.mint-msgbox-title {
+  font-size: 18px;
+}
+
+.mint-msgbox-message {
+  color: #333;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.mint-msgbox-confirm,
+.mint-msgbox-cancel {
+  color: #007AAA;
+  font-size: 16px;
+}
+
+.mint-msgbox-confirm {
+  font-weight: bold;
+}
+
+.mint-msgbox-cancel {
+  border-right: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.mint-msgbox-content {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+/* 自定义 mint-picker 的 toolbar  --start*/
+.define-picker-toolbar-wrap {
+  border-bottom: 1px solid #ddd;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px;
+}
+
+.define-picker-toolbar-wrap .btn-cancel,
+.define-picker-toolbar-wrap .btn-confirm {
+  color: #007AAA;
+  font-size: 16px;
+}
+/* 自定义 mint-picker 的 toolbar  --end*/
+
+/* indicator 层级优化为最高，防止用户在支付未响应的时候多次点击 */
+.mint-indicator {
+  position: relative;
+  z-index: 9999;
+}
+
+.picker-slot.picker-slot-center {
+  font-family: HelveticaNeue;
+}
