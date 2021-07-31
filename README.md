@@ -20,7 +20,7 @@ Vedio Link: https://v.youku.com/v_show/id_XNTE4Nzg5NDEyOA==.html
 
 ## Demo video
 
-[![Watch the video](https://github.com/Call-for-Code/Liquid-Prep/blob/master/images/readme/IBM-interview-video-image.png)](https://v.youku.com/v_show/id_XNTE4Nzg5NDEyOA==.html)
+[![Watch the video](https://github.com/zheshi123/Demeter/blob/main/Images/video.png)](https://v.youku.com/v_show/id_XNTE4Nzg5NDEyOA==.html)
 
 ## RoadMap:
 
