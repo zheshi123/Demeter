@@ -17,7 +17,7 @@ Our team answered IBM 2021 call for code aiming to reduce the risk of agricultur
 
 ## Long description
 
-[More detail is available here](./docs/DESCRIPTION.md)
+[More detail is available here](./Docs/Long Description.docx)
 
 ## RoadMap:
 
