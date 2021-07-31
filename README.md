@@ -8,7 +8,7 @@
   - [Contents](#contents)
   - [Short description](#Short-description)
   - [Demo video](#demo-video)
-  - [The Technical Architecture](#the Technical Architecture)
+  - [The architecture](#the-architecture)
   - [Long description](#long-description)
   - [Project roadmap](#project-roadmap)
   - [Authors](#authors)
@@ -18,7 +18,7 @@
 
 Our team answered IBM 2021 call for code aiming to reduce the risk of agricultural production and achieve ‘zero hunger’ by new technology and innovative financial instrument. We developed a new system named after ancient Greek goddess of the harvest, i.e. Demeter. We hope our ‘Demeter’ can save the living of the small-scale farmers so that no children die of hunger anymore. 
 
-## The Technical Architecture
+## The architecture
 
 ![Technical Architecture](https://github.com/zheshi123/Demeter/blob/main/Images/TechnicalArchitecture.png)
 
