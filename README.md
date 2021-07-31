@@ -8,7 +8,7 @@
   - [Contents](#contents)
   - [Short description](#Short-description)
   - [Demo video](#demo-video)
-  - [The Technical Architecture](#The Technical Architecture)
+  - [The Technical Architecture](#the Technical Architecture)
   - [Long description](#long-description)
   - [Project roadmap](#project-roadmap)
   - [Authors](#authors)
