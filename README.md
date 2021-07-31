@@ -1,6 +1,6 @@
 # Demeter Team
 
-THIS PROJECT IS FOR IBM 2021 CALL FOR CODE GLOBAL CHALLENGE USE ONLY(Zero Hunger).
+THIS PROJECT IS FOR IBM 2021 CALL FOR CODE GLOBAL CHALLENGE USE ONLY(Zero Hunger Theme).
 
 Author:
 Xiaoyi Tao, Chuanyun Duan, Zhe Shi, Sibo Xie, Yao Fu
