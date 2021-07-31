@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.demeter.mapper.UserMapper">
+
+    <insert id="addUser" parameterType="com.demeter.model.UserModel">
+        INSERT INTO demeter.user
+        VALUES( 0,
+        #{username},
+        #{idcardphoto1},
+        #{idcardphoto2},
+        #{idcardtype},
+        #{idcardnumber},
+        #{phonenumber})
+    </insert>
+
+    <select id="checkUserNumbers" parameterType="map" resultType="Integer">
+        SELECT count(*) from demeter.user
+        WHERE 1=1
+        AND phonenumber = #{phonenumber}
+    </select>
+
+    <update id = "updateUser" parameterType="com.demeter.model.UserModel">
+        UPDATE demeter.user
+        SET
+        username = #{username},
+        idcardnumber = #{idcardnumber},
+        idcardphoto1 = #{idcardphoto1},
+        idcardphoto2 = #{idcardphoto2}
+        <if test="idcardtype != null and idcardtype != ''">
+            ,idcardtype = #{idcardtype}
+        </if>
+        WHERE
+        phonenumber = #{phonenumber}
+    </update>
+
+</mapper>

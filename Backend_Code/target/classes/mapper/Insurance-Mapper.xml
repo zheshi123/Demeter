@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.demeter.mapper.InsuranceMapper">
+    <select id="showProduct" parameterType="map" resultType="com.demeter.model.ProductModel">
+        SELECT * from demeter.product
+        WHERE 1 = 1
+        AND isflag=1
+        <if test="type != null and type != ''">
+            AND type = #{type}
+        </if>
+        ORDER BY type,count
+        LIMIT #{currentIndex} , #{pageSize}
+    </select>
+
+    <select id="countProduct" parameterType="map" resultType="Integer">
+        SELECT COUNT(*) from demeter.product
+        WHERE 1 = 1
+        AND isflag=1
+        <if test="type != null and type != ''">
+            AND type = #{type}
+        </if>
+    </select>
+
+    <select id="productDetail" parameterType="map" resultType="com.demeter.model.ProductModel">
+        SELECT * from demeter.product
+        WHERE 1 = 1
+        AND row_id=#{row_id}
+    </select>
+</mapper>
