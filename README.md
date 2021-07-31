@@ -3,9 +3,6 @@
 
 **THIS PROJECT IS FOR IBM 2021 CALL FOR CODE GLOBAL CHALLENGE USE ONLY(Zero Hunger Theme).**
 
-## Author:
-
-Xiaoyi Tao, Chuanyun Duan, Zhe Shi, Sibo Xie, Yao Fu
 
 ## Key Technology: 
 
@@ -28,3 +25,7 @@ Vedio Link: https://v.youku.com/v_show/id_XNTE4Nzg5NDEyOA==.html
 ## RoadMap:
 
 ![ROADMAP](https://github.com/zheshi123/Demeter/blob/main/Docs/Roadmap.jpg)
+
+## Authors:
+
+Xiaoyi Tao, Chuanyun Duan, Zhe Shi, Sibo Xie, Yao Fu
