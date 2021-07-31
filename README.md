@@ -26,7 +26,7 @@ Our team answered IBM 2021 call for code aiming to reduce the risk of agricultur
 
 [![Watch the video](https://github.com/zheshi123/Demeter/blob/main/Images/VideoLink.png)](https://v.youku.com/v_show/id_XNTE4Nzg5NDEyOA==.html)
 
-## Long description&PPT
+## Long description & PPT
 
 [More detail is available here](./Docs)
 
